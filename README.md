@@ -1,6 +1,5 @@
 In this project, I built an **Emoji Game**..
-
-### Refer to the image below:
+Developed an interactive Emoji Game using React.js,CSS. Implemented game logic, a dynamic user interface, and emoji rendering.
 
 <br/>
 <div style="text-align: center;">
